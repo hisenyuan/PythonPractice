@@ -6,7 +6,11 @@ PythonPractice
 
 
 
-<html><body><a href="http://yhx.wiki/" target="_blank"><h3>http://yhx.wiki<h3></a><table border="1px" cellspacing="0px" cellpadding="1"><tr><td>标题</td><td>摘要</td><td>链接</td></tr><tr><td>Python</td><td>
+<h3>http://yhx.wiki<h3></a>
+
+
+
+<table border="1px" cellspacing="0px" cellpadding="1"><tr><td>标题</td><td>摘要</td><td>链接</td></tr><tr><td>Python</td><td>
 Python（英国发音：/ˈpaɪθən/ 美国发音：/ˈpaɪθɑːn/）, 是一种面向对象、解释型计算机程序设计语言，由Guido van Rossum于1989年发明，第一个公开发行版发行于1991年。Python是纯粹的自由软件， 源代码和解释器CPython遵循 GPL(GNU General Public License)协议[1] 
 。Python语法简洁清晰，特色之一是强制用空白符(white space)作为语句缩进。Python具有丰富和强大的库。它常被昵称为胶水语言，能够把用其他语言制作的各种模块（尤其是C/C++）很轻松地联结在一起。常见的一种应用情形是，使用Python快速生成程序的原型（有时甚至是程序的最终界面），然后对其中[2] 
 有特别要求的部分，用更合适的语言改写，比如3D游戏中的图形渲染模块，性能要求特别高，就可以用C/C++重写，而后封装为Python可以调用的扩展类库。需要注意的是在您使用扩展类库时可能需要考虑平台问题，某些可能不提供跨平台的实现。
@@ -240,4 +244,4 @@ Internet的最早起源于美国国防部高级研究计划署DARPA（Defence Ad
 建筑是一种建筑的艺术形式，以基督教为背景。该建筑具有鲜明的宗教色彩，其突出特点是屋顶的圆形。
 </td><td>http://baike.baidu.com/view/20701.htm</td></tr><tr><td>法语</td><td>
 法语属于印欧语系罗曼语族，罗曼语族包括中部罗曼语（法语、意大利语、萨丁岛（Sardinia）方言、加泰罗尼亚（Catalunya）语等）、西部罗曼语（西班牙语、葡萄牙语等）与东部罗曼语（罗马尼亚语等）。是继西班牙文之后，使用者人数最多的罗曼语言之一。现时全世界有8700万人把它作为母语，以及其他2.85亿人使用它（包括把它作为第二语言的人）。法文是很多地区或组织的官方语言（例如联合国、欧洲联盟）。法国法语和加拿大法语是世界上两大法语分支，它们之间有很大区别。
-</td><td>http://baike.baidu.com/view/35595.htm</td></tr></table></body></html>
+</td><td>http://baike.baidu.com/view/35595.htm</td></tr></table>
