@@ -4,9 +4,7 @@ PythonPractice
 **第一爬取的数据**
 
 
-
-
-<h3>http://yhx.wiki<h3></a>
+<a href="http://yhx.wiki" target="_blank">http://yhx.wiki</a>
 
 
 
