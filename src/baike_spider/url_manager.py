@@ -2,6 +2,8 @@
 '''
 Created on 2016年4月21日
 @author: hisenyuan
+
+链接管理器
 '''
 class UrlManager(object):
 
