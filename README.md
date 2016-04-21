@@ -4,6 +4,8 @@ PythonPractice
 **第一爬取的数据**
 
 
+
+
 <html><body><a href="http://yhx.wiki/" target="_blank"><h3>http://yhx.wiki<h3></a><table border="1px" cellspacing="0px" cellpadding="5"><tr><td>标题</td><td>摘要</td><td>链接</td></tr><tr><td>Python</td><td>
 Python（英国发音：/ˈpaɪθən/ 美国发音：/ˈpaɪθɑːn/）, 是一种面向对象、解释型计算机程序设计语言，由Guido van Rossum于1989年发明，第一个公开发行版发行于1991年。Python是纯粹的自由软件， 源代码和解释器CPython遵循 GPL(GNU General Public License)协议[1] 
 。Python语法简洁清晰，特色之一是强制用空白符(white space)作为语句缩进。Python具有丰富和强大的库。它常被昵称为胶水语言，能够把用其他语言制作的各种模块（尤其是C/C++）很轻松地联结在一起。常见的一种应用情形是，使用Python快速生成程序的原型（有时甚至是程序的最终界面），然后对其中[2] 
