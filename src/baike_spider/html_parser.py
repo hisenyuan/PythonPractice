@@ -2,6 +2,8 @@
 '''
 Created on 2016年4月21日
 @author: hisenyuan
+
+html解析器
 '''
 from bs4 import BeautifulSoup
 import re
