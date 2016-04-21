@@ -2,6 +2,8 @@
 '''
 Created on 2016年4月21日
 @author: hisenyuan
+
+html输出器
 '''
 class HtmlOutputer(object):
     def __init__(self):
