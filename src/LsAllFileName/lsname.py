@@ -2,10 +2,12 @@
 '''
 Created on 2016年7月6日
 
-@author: Administrator
+@author: hisenyuan
 '''
 import os
- 
+
+#dir 传入的目录(纯英文路径才行)
+#fileList 传入一个数组
 def GetFileList(dir, fileList):
     newDir = dir
     if os.path.isfile(dir):
